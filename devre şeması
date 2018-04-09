@@ -1,0 +1,10 @@
+https://www.google.com.tr/search?q=telefon+ile+kontrol+edilebilir+araba&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj7wd6u4a3aAhW0x6YKHZ4YBLQQ_AUICygC&biw=1536&bih=710&dpr=1.25#imgrc=ebrVUMezRiQsfM:
+
+
+Şeklimizde de gösterildiği gibi devre şeması ve anlatımı bu şekildedir;
+
+İlk önce aracımızın motorlarının kutuplarını motor sürücümüzün motor kısımlarına bağlıyoruz.Daha sonra ın1,ın2,ın3 ve ın4 uçlarını arduinomuzda sırasıyla 2,3,4ve 5. pinlere bağlıyoruz.Daha sonra aracımızın ön far olarak kullanacağımız ledlerin (+) ve (-) uçlarını birlerine bağlayıp arduinodan gnd ve 6.pine bağlıyoruz.Arka far ve dörtlü lambalarımız içinde aynı uygulamayı yaparak arka farı 7. Pine  4’lü lambaları 9.pine bağlıyoruz.Buzzeri ise 8.pine bağlıyoruz. Bluetooth modülünün vcc ve gnd uçlarını Arduino’muzun 5v ve gnd hattına bağlıyoruz. Tx bacağını Arduino’muzun Rx pinine Rx bacağını Arduino’muzdaki Tx pinine bağlıyoruz. Kodumuzu Arduino’ya yüklemeden önce aracımız için kullanacağımız pilin + ve – ucunu motor sürücümüze bağlıyoruz ve Arduino ile motor sürücüsünün gnd hatlarını ortak yapıyoruz.
+
+
+
+
