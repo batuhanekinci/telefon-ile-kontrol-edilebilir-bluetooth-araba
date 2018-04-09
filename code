@@ -1,6 +1,3 @@
-// Proje Hocam - www.projehocam.com
-// Android Kontrollü RC Araba Programı
- 
 char dataIn = 'S'; // Durma fonksiyonu için karakter
 int pinileri = 3; //İleri sürüş için kontrol pini
 int pingeri = 5; //Geri sürüş için kontrol pini
