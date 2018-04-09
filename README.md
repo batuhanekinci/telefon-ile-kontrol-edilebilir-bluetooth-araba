@@ -8,6 +8,8 @@ Kullanılacak elemanlar:
 *Android Telefon
 *9V pil 
 *Jumper erkek-erkek ve erkek-dişi
+*Korna için Buzzer 5V
+*Ön arka lambalar için led
  
  Devre şeması Fritzingde çizilmiş olarak devre şeması// kısmında verilmiştir.Gerekli bağlantılar yapıldıktan sonra kod kısmına geçilebilir.
  Projede L298N motor sürücü ve HC-06 kullanılarak daha verimli sonuç elde edilebilir.Kodlarımızı yazmak için https://www.arduino.cc/en/Main/Software sitesinden ücretsiz olarak arduino idesi indirilip kodlarımız yazılabilir ve arduino r3 kitimizin içine atılabilir.
